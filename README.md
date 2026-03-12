@@ -40,21 +40,65 @@ and showing you where they are in an easy to view way.
     * Inventory
     * Looting bag
     * Rune pouch
-    * Seed box
+    * Master scroll book
+    * Tackle box
+    * Forestry kit
+    * Bow string spool
+    * Bolt pouch
+    * Huntsman's kit
+    * Chugging barrel
+    * Bottomless compost bucket
 
 ![Carryable Storage](readme/carryables.gif)
 
 * World storage
+    * Bank
+    * Potion Storage
+    * Seed Vault
     * Tool Leprechaun
+    * Nulodion
+    * Annette
+    * Elnock Inquisitor
+    * Compost bins
+    * Fossil storage
+    * Log storage (Balloon transport system)
+    * Sandstorm
 
 ![World Storage](readme/world.png)
 
 * Minigame points
     * Barbarian Assault
+    * Giants' Foundry
+    * Guardians of the Rift
     * Last Man Standing
     * Mage Training Arena
+    * Mahogany Homes
+    * Mastering Mixology
     * Nightmare Zone
+    * Pest Control
+    * Slayer
+    * Tempoross
     * Tithe Farm
+    * Trouble Brewing
+    * Volcanic Mine
+    * Wintertodt
+
+* STASH Units
+    * All STASH units
+
+* POH Storage
+    * Armour Case
+    * Magic Wardrobe
+    * Cape Rack
+    * Fancy Dress Box
+    * Treasure Chest (Sorted into each tier)
+    * Menagerie
+    * Spice Rack
+    * Uncategorized (Toy box stuff mostly)
+
+* Sailing Storage
+    * Cargo hold for each boat you own
+    * Lost boats
 
 ![Minigame Storage](readme/minigames.png)
 
